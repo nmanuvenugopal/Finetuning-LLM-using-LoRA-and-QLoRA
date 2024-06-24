@@ -49,7 +49,9 @@ by adding the trainable parameters to the prompt embeddings or keeping the input
 
 
 
-Refernces
+
+### References
+
 Generative AI with Large Langugage Models - Coursera
 Low Rank Adaptation (LoRA): From Intution to Implementation by Harsh Maheshwari (Medium Article)
 
