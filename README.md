@@ -1,4 +1,5 @@
 # Finetuning-LLM-using-LoRA-and-QLoRA
+Finetuning LLM using various quantization steps
 
 There are so many computational challenges when fine-tuning the LLM. We all know larger the number of nuerons or parameter in LLM, better will be its intelligence.
 
